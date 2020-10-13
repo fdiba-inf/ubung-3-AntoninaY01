@@ -22,8 +22,8 @@ public class NumberCounter {
   average = sum/(positiveCount + negativeCount);
    number = input.nextInt();
   } 
-  System.out.println("Positive: " + positiveCount);
-  System.out.println("Negative: " + negativeCount);
+  System.out.println("Positive numbers: " + positiveCount);
+  System.out.println("Negative numbers: " + negativeCount);
   System.out.println("Sum: " + sum);
   System.out.println("Average: " + average);
 
