@@ -10,7 +10,7 @@ public class NumberSearch {
 
     for(; number<=1000; number++){
       if (number%5==0 && number%6==0){
-        System.out.print(number + " ");
+        
         count++;
 
         if(count!=10){
