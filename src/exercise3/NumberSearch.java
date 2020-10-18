@@ -5,7 +5,7 @@ public class NumberSearch {
   public static void main (String[] args){
     Scanner input = new Scanner(System.in);
     
-    int number = 100;
+    int number = 0;
     int count = 0;
 
     for(; number<=1000; number++){
