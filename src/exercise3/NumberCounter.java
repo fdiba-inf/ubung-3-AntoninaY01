@@ -10,7 +10,7 @@ public class NumberCounter {
   int positiveCount = 0;
   int negativeCount = 0;
   int sum = 0;
-  int average = 0;
+  double average = 0.0;
   while (number!=0){
    
    if (number>0){
